@@ -12,3 +12,8 @@ p.best {
   font-style: italic;
   color: red
 }
+
+.about {
+  font-style: oblique;
+  color:chartreuse
+}

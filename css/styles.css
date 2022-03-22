@@ -1,0 +1,14 @@
+p.intro {
+  width: 50%;
+  font-style: italic;
+}
+
+p.best {
+  font-style: bold;
+  color: green
+}
+
+p.flashy {
+  font-style: italic;
+  color: red
+}

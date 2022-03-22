@@ -17,3 +17,9 @@ p.best {
   font-style: oblique;
   color:chartreuse
 }
+
+nav li {
+  list-style: none;
+  display: inline-block;
+  padding: 5px
+}

@@ -10,7 +10,9 @@ p.best {
 
 .flashy {
   font-style: italic;
-  color: red
+  font-weight: bold;
+  color: red;
+  background-color: antiquewhite;
 }
 
 .about {
@@ -37,6 +39,10 @@ nav li {
   
 }
 
+.sidebar p {
+  font-weight: bolder;
+}
+
 .centered-image {
   width: 45%;
   height: auto;
@@ -44,5 +50,10 @@ nav li {
   display: block;
 }
 
+body {
+  font-family: sans-serif;
+}
 
-
+h2 {
+  font-size: 32px;
+}

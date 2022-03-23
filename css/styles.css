@@ -37,5 +37,12 @@ nav li {
   
 }
 
+.centered-image {
+  width: 45%;
+  height: auto;
+  margin: auto;
+  display: block;
+}
+
 
 
